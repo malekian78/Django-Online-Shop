@@ -22,9 +22,8 @@ cp `.env-sample` to `.env`
 ```bash
 py manage.py makemigrations
 py manage.py migrate
-```
 
-create superuser
+py manage.py createsuperuser
 
 python manage.py runserver
-
+```
