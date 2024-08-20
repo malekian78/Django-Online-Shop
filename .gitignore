@@ -8,6 +8,7 @@ __pycache__/
 .idea/
 mian.html
 todo.py
+media
 
 # C extensions
 *.so
